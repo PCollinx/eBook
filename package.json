@@ -1,0 +1,15 @@
+{
+  "name": "ebook",
+  "version": "1.0.0",
+  "description": "an ebook bootstrap file",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "collins",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^5.3.3",
+    "bootstrap-icons": "^1.11.3"
+  }
+}
